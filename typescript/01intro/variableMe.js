@@ -1,0 +1,10 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var greetings = "Hello";
+var myNum = 6;
+greetings.toLowerCase();
+// console.log(greetings); 
+var userID = 55599.6;
+var isLogin = true;
+console.log(userID.toFixed());
+;
